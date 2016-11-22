@@ -1,0 +1,6 @@
+[[_docker_config_file]]
+
+=== Docker Registry Configuration File Installation
+
+
+
